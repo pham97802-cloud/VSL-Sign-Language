@@ -142,32 +142,7 @@ sequenceDiagram
 
 ---
 
-## 6. LỊCH TRÌNH TRIỂN KHAI DỰ ÁN (10 TUẦN - THEO ĐỀ CƯƠNG)
-
-```mermaid
-gantt
-    title KẾ HOẠCH TRIỂN KHAI ĐỒ ÁN TỐT NGHIỆP (10 TUẦN)
-    dateFormat  YYYY-MM-DD
-    section Giai đoạn Khởi động
-    Khởi động & Cài đặt Môi trường (Tuần 1)     :a1, 2026-09-28, 7d
-    section Chuẩn bị Dữ liệu
-    Thu thập Dữ liệu Dataset (Tuần 2)            :a2, 2026-10-05, 7d
-    Gán Nhãn & Xuất data.yaml (Tuần 3)           :a3, 2026-10-12, 7d
-    section Huấn luyện & Đánh giá
-    Huấn luyện YOLOv8n trên Colab (Tuần 4)       :a4, 2026-10-19, 7d
-    Kiểm thử OpenCV & Đánh giá (Tuần 5)          :a5, 2026-10-26, 7d
-    section Phát triển Phần mềm
-    Xây dựng Web Streamlit (Tuần 6)              :a6, 2026-11-02, 7d
-    Tích hợp TTS & Ảnh minh họa (Tuần 7)         :a7, 2026-11-09, 7d
-    Tối ưu & Hoàn thiện Demo (Tuần 8)            :a8, 2026-11-16, 7d
-    section Hoàn thiện Báo cáo
-    Viết Báo cáo Đồ án (Tuần 9)                  :a9, 2026-11-23, 7d
-    Làm Slide & Bảo vệ Đồ án (Tuần 10)           :a10, 2026-11-30, 7d
-```
-
----
-
-## 7. TIÊU CHÍ NGHIỆM THU ĐỒ ÁN (BUSINESS ACCEPTANCE CRITERIA)
+## 6. TIÊU CHÍ NGHIỆM THU ĐỒ ÁN (BUSINESS ACCEPTANCE CRITERIA)
 
 Sản phẩm đồ án của sinh viên Phạm Quang Duy được nghiệm thu đạt yêu cầu khi đáp ứng đầy đủ các tiêu chí sau:
 
